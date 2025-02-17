@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import { CiFilter, CiSearch } from "react-icons/ci";
 import { FaSortDown, FaPlus } from "react-icons/fa";
 import { RiDeleteBin6Line } from "react-icons/ri";
